@@ -1,5 +1,5 @@
 
-# Arduino Based Under Voltage and Over Voltage Protection System 
+# Arduino Based Voltage Protection System
 
 Overvoltage happen when voltages surpass their rated values, resulting in insulation damage and short circuits. They might be temporary or permanent, resulting in power surges and other risks.
 Similarly, Undervoltage happens when the average voltage of equipment falls below the rated voltage amount. Frequent Undervoltage can result in a degradation in equipment performance and reliability.
